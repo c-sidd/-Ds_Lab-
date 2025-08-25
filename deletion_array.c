@@ -1,3 +1,4 @@
+//Program for delete the given elements into an array.
 #include<stdio.h>
 int main()
 {
